@@ -1,1 +1,3 @@
-# vim-tips
+
+# vim-tips.vim
+Random output vim tips.
