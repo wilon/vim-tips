@@ -21,7 +21,7 @@ Random output vim tips.
 ### Configuring
 
 1. Supported tips
-    `let g:vim_tip_lang = 'wilon'`    [My] vim tips;
+    `let g:vim_tip_lang = 'wilon'`    [My] vim tips; default
     `let g:vim_tip_lang = 'zzapper'`    [Xzapper] vim tips;
     `let g:vim_tip_lang = 'learnenglish'`    English-cn vim tips;
 

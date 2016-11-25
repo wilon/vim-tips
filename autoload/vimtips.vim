@@ -14,7 +14,7 @@ function! vimtips#echo()
         let rand = randnum % len(g:tipList)
         let g:tips = g:tipList[rand]
     endif
-    if winwidth(0) > strdisplaywidth(g:tips)
+    if v:version > 703 && winwidth(0) > strdisplaywidth(g:tips)
         echo g:tips
     endif
 endfunction
