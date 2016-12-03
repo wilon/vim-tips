@@ -7,7 +7,7 @@
 " file
 if !exists('g:vim_tip_file')
     if !exists('g:vim_tip_lang')
-        let g:vim_tip_lang = 'wilon'
+        let g:vim_tip_lang = 'zzapper'
     en
     let g:vim_tip_file = '~/.vim/bundle/vim-tips/tips/vim_tips_' . g:vim_tip_lang . '.txt'
 en
