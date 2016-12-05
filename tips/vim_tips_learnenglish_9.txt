@@ -1,0 +1,209 @@
+   trot                 vi.&n.(马)小跑，慢跑
+   hound                n.狗；角鲨；卑鄙的人
+   excuse               vt.与…辩解；使免除
+   latitude             n.纬度；黄纬
+   oblige               vt.使感激；施恩惠于
+   mechanics            n.力学，机械学；结构
+   uneasy               a.不安的；拘束的
+   rascal               n.流氓，恶棍，无赖
+   idiot                n.白痴；傻子
+   whisker              n.髯，连鬓胡子
+   clip                 vt.夹住 n.夹子，钳子
+   switch               n.(树木的)软枝条
+   assurance            n.保证；财产转让书
+   discern              vt.看出，辨出；辨别
+   kit                  n.成套工具；用具包
+   xerox                vt.&vi.用静电复印
+   regime               n.政体，政权；制度
+   scrap                n.碎片；废料 vt.废弃
+   damn                 vt.诅咒 n.诅咒；丝毫
+   derivation           n.引出；起源；衍生
+   commonwealth         n.共和国；联邦
+   psychology           n.心理学；心理
+   commend              vt.称赞，表扬；推荐
+   underwear            n.衫衣，内衣，贴身衣
+   preset               vt.预先装置
+   contend              vi.竞争 vt.坚决主张
+   squeeze              n.压榨；榨取，佣金
+   shipwreck            n.船舶失事
+   advantageous         a.有利的，有助的
+   operation            n.运算
+   pace                 vi.(马)溜蹄走
+   satisfactorily       ad.圆满地
+   distortion           n.弄歪，歪曲；畸变
+   limestone            n.石灰石
+   axle                 n.(轮)轴，车轴，心棒
+   vector               n.矢量；飞机航线
+   elbow                vt.用肘挤，挤进
+   respectable          a.可敬的；人格高尚的
+   hostage              n.人质，抵押品
+   marshal              n.元帅；陆军元帅
+   adjacent             a.毗连的；紧接着的
+   sorrowful            a.使人伤心的；悲伤的
+   sneer                vi.&n.冷笑；嘲笑
+   uniformly            ad.相同地；一贯
+   whale                n.鲸；庞然大物
+   satellite            n.附属物
+   impartial            a.公正的，无偏见的
+   refreshment          n.(精力的)恢复，爽快
+   flock                vi.群集，聚集
+   ass                  n.驴；傻瓜，蠢笨的人
+   courtesy             n.礼貌，谦恭，请安
+   endow                vt.资助；赋予，授予
+   passport             n.达到目的的手段
+   cavity               n.洞，穴，空腔
+   earnings             n.工资，收入；收益
+   strength             n.兵力；强度
+   qualify              vt.限制，限定，修饰
+   unreasonable         a.不讲道理的；过度的
+   hostile              a.敌对的；不友好的
+   bug                  n.虫子；臭虫
+   goodness             n.善良，善行，美德
+   fraction             n.分数；分馏的部分
+   hemisphere           n.半球；半球地图
+   ashore               ad.在岸上，上岸
+   negative             a.负的，阴性的
+   develop              vt.使(颜色等)显现
+   satisfaction         n.快事，乐事；愉快
+   marsh                n.沼泽地，湿地
+   insignificant        a.无意义的；低微的
+   marvel               n.奇迹；惊奇 vt.惊奇
+   mishief              n.调皮，捣蛋，胡闹
+   detain               vt.耽搁；扣押，拘留
+   landscape            n.风景，景色，景致
+   undertake            vt.约定，保证；从事
+   inorganic            a.无生物的；无机的
+   disastrous           a.灾难性的；悲惨的
+   deliberate           a.深思熟虑的；审慎的
+   charge               n.负荷；充电 vt.装满
+   validity             n.有效，效力；正确
+   scrub                n.&vt.擦洗，擦净
+   second-hand          n.旧的，第二手的
+   icy                  a.冰冷的；冷冰冰的
+   move                 n.行动，步骤
+   solo                 n.独唱，独奏；独唱曲
+   exemplify            vt.举例证明(解释)
+   extraction           n.抽出；提取法；摘要
+   grind                vt.折磨，压榨
+   makeup               n.组织；性格；化装品
+   stitch               n.一针，缝线 vt.缝
+   dove                 n.鸽子，斑鸠
+   fossil               n.化石 a.化石的
+   succession           n.继承(权)，后裔
+   datum                n.资料；数据；已知数
+   linger               vi.逗留，徘徊；拖延
+   tug                  vi.用力拖 n.猛拉，拖
+   kinetic              a.动力(学)的；活动的
+   ballet               n.芭蕾舞；舞剧
+   battery              n.炮兵连；兵器群
+   adjoin               vt.贴近，毗连；靠近
+   tighten              vt.&vi.(使)变紧
+   stalk                n.主茎，叶柄；高烟囱
+   conception           n.概念，观念，想法
+   mop                  n.墩布，洗碗刷
+   swell                vi.&vt.使膨胀，隆起
+   compact              a.紧密的 vt.使紧凑
+   probe                n.探针 vt.用探针探查
+   jerk                 vt.猛地一拉 vi.急拉
+   predominant          a.占优势的；主要的
+   muse                 vi.沉思，默想，冥想
+   sift                 vt.筛，过滤 vi.通过
+   plateau              n.高原；平稳时期
+   kidnap               vt.诱拐，绑架
+   wind                 n.胸口，心窝
+   decidedly            ad.明确地，坚决地
+   audience             n.正式会见；拜会
+   deposition           n.免职，罢免；口供
+   subsequently         ad.其后，其次，接着
+   situated             a.位于…的
+   questionable         a.可疑的，不可靠的
+   homogeneous          a.同类的；均匀的
+   capacitor            n.电容器
+   situation            n.(建筑物等的)位置
+   fitness              n.适当，恰当；健康
+   rap                  n.轻敲击声 vt.敲击
+   ultraviolet          a.紫外的n.紫外线辐射
+   perpetual            a.永久的；四季开花的
+   blond                n.白肤金发碧眼的人
+   circus               n.马戏；马戏团
+   possibility          n.可能的事
+   inaccurate           a.不精密的，不准确的
+   compensation         n.补偿，赔偿，赔偿费
+   convention           n.公约，(换俘等)协定
+   whitewash            n.石灰水 vt.粉饰
+   alignment            n.队列；结盟，联合
+   expel                vt.驱逐，开除；排出
+   bound                a.应当的；必定的
+   unfit                a.不合适的；无能力的
+   flux                 n.流；涨潮；流量
+   overseas             ad.在海外，(向)国外
+   further              vt.增进
+   lipstick             n.唇膏，口红
+   shrimp               n.(小)虾，河虾，褐虾
+   scholarship          n.学问，学识；奖学金
+   contradict           vt.反驳，否认
+   coach                vt.辅导，指导，训练
+   moss                 n.苔藓，地衣
+   particular           a.苛求的；特称的
+   shower               vi.下阵雨 vt.使湿透
+   charter              vt.租 n.宪章；契据
+   turtle               n.海龟，玳瑁；甲鱼肉
+   chorus               vt.&vi.合唱
+   polar                a.南(北)极的；极性的
+   sting                n.剧痛；刺激 vt.刺
+   dizzy                a.头晕眼花的，眩晕的
+   cloak                vt.掩盖，覆盖，掩饰
+   whereas              conj.而，却，反之
+   stainless            a.纯洁的；不锈的
+   flannel              n.法兰绒；法兰绒衣服
+   rotate               vt.&vi.(使)旋转
+   sentiment            n.感情；情操；情绪
+   manuscript           n.手稿，底稿，原稿
+   complaint            n.疾病，病痛；主诉
+   poll                 n.投票 vi.投票
+   representation       n.描写；陈述；代表
+   substantial          a.物质的；坚固的
+   scripture            n.《圣经》；圣书
+   deafen               vt.使聋；使隔音
+   novelty              n.新颖；新奇的事物
+   slack                a.萧条的；懈怠的
+   shrine               n.神殿，神龛，圣祠
+   pluck                vt.鼓起(勇气)，振作
+   hoist                vt.升起 vi.扯起来
+   paralyse             vt.使麻痹，使瘫痪
+   acknowledge          vt.承认；告知收到
+   fluctuate            vi.波动 vt.使波动
+   orchard              n.果园
+   merciful             a.仁慈的，宽大的
+   fascinate            vt.迷住 vi.迷人
+   estate               n.房地产；财产，产业
+   valve                n.阀，阀门；电子管
+   violation            n.违犯；侵犯，妨碍
+   reign                n.朝代
+   pest                 n.害虫；害人虫
+   solidarity           n.团结；休戚相关
+   noted                a.著名的，知名的
+   proceeding           n.程序，行动，事项
+   irrigation           n.灌溉；冲洗法
+   integrate            vt.使结合，使并入
+   rectangle            n.矩形，长方形
+   tyrant               n.暴君；专制君主
+   forward              ad.向前，将来vt.转递
+   ranch                n.(北美洲的)大牧场
+   grumble              vi.抱怨，发牢骚
+   sink                 n.(厨房内的)洗涤槽
+   pious                a.虔诚的；虔奉宗教的
+   blast                n.管乐器的声音
+   consistent           a.前后一致的，连贯的
+   drastic              a.激烈的；严厉的
+   symmetry             n.对称(性)，匀称
+   engage               vt.使(齿轮等)啮合
+   distort              vt.歪曲，曲解，扭曲
+   scandal              n.丑事，丑闻；耻辱
+   blue                 a.伤心的；下流的
+   applause             n.喝彩；夸奖，称赞
+   gigantic             a.巨大的；巨人似的
+   allowance            n津贴，补助费
+   fortress             n.堡垒，要塞
+   follow               vt.从事(职业)，经营
+   eloquence            n.雄辩；口才，修辞

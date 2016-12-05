@@ -1,0 +1,198 @@
+   notify               vt.通知，告知；报告
+   tread                vi.&vt.踩，踏，践踏
+   pedal                n.踏脚，踏板，脚蹬
+   mint                 n.薄荷；薄荷糖
+   extra                n.附加物；额外的人手
+   stone                n.果核，(水果的)硬核
+   clip                 vt.剪；剪辑报刊
+   heading              n.标题，题词，题名
+   beetle               n.甲虫；近视眼的人
+   prejudice            n.偏见，成见；损害
+   censor               vt.审查，检查
+   amateur              a.业余的n.业余爱好者
+   piston               n.活塞
+   lobby                n.前厅，(剧院的)门廊
+   rinse                vt.涮，嗽；冲洗
+   misery               n.痛苦，悲惨，不幸
+   rooster              n.公鸡；狂妄自负的人
+   value                vt.尊重，重视，评价
+   cement               vt.粘结 vi.粘紧
+   hiss                 n.嘶嘶声 vi.嘶嘶作声
+   individual           a.特殊的
+   gross                a.(语言、举止)粗俗的
+   successor            n.继承人，继任者
+   trench               n.深沟；壕沟，战壕
+   grief                n.悲哀，悲痛，悲伤
+   subscribe            vi.订购，认购；预订
+   body                 n.物体；(液)体；实质
+   indispensable        a.必不可少的，必需的
+   choice               n.入选者 a.优等的
+   cross                a.易怒的；杂交的
+   infect               vt.使受影响
+   extinguish           vt.熄灭，扑灭；消灭
+   duplicate            n.复制品 vt.复制
+   fighter              n.斗争者；战斗机
+   furious              a.狂暴的；强烈的
+   prohibition          n.禁止；禁令，禁律
+   twilight             n.黎明，黄昏；曙光
+   tar                  n.柏油，焦油
+   missionary           n.传教士
+   personnel            n.人事部门
+   postulate            vt.要求，假定，假设
+   sociology            n.社会学
+   float                n.漂浮物；浮标，木筏
+   designate            vt.指出，指示；指定
+   detector             n.发觉者，探测器
+   Jesus                n.耶稣
+   positive             a.正的；阳性的
+   scope                n.眼界
+   universally          ad.普遍地，一般地
+   monster              n.怪物；畸形的动植物
+   fright               n.惊吓，恐怖
+   perception           n.感觉；概念；理解力
+   bulletin             告示，公告，公报
+   regulate             vt.调整，调节，对准
+   notable              n.值得注意的；著名的
+   currently            ad.普遍地；当前
+   bugle                n.军号，喇叭
+   extraordinarily      ad.非常地，特别地
+   fuse                 n.保险丝，导火线
+   prairie              n.大草原，牧场
+   complication         n.复杂，混乱；并发症
+   frightful            a.可怕的；讨厌的
+   drawback             n.退款；妨碍；弊端
+   flap                 vt.&n.拍打 vi.拍动
+   silicon              n.硅(旧名矽)
+   moderately           ad.适度地，适中
+   nursery              n.苗圃，养鱼池
+   shaft                n.(工具的)柄，杆状物
+   ornamental           a.装饰的 n.装饰品
+   alien                a.外国的 n.外国人
+   pilgrim              n.香客，朝圣者
+   radiator             n.暖气片，散热器
+   walnut               n.胡桃，核桃树
+   loosely              ad.松松地，松散地
+   initial              a.词首的
+   greed                n.贪心，贪婪
+   team                 vi.协作，合作
+   tuberculosis         n.结核病，肺结核
+   perfection           n.尽善尽美；无比精确
+   diploma              n.毕业文凭，学位证书
+   signify              vt.表示，意味着
+   literary             a.精通文学的
+   pressure             n.电压；大气压力
+   wrench               vt.拧，扭伤 n.拧
+   commonsense          a.有常识的
+   sheer                a.纯粹的；全然的
+   thesis               n.论题，论点；论文
+   resent               vt.对…不满，怨恨
+   deflect              vt.&vi.(使)偏斜
+   mansion              n.大厦，大楼；宅第
+   response             n.回音，回签；灵敏度
+   minimize             vt.使减到最小
+   couch                n.睡椅，长沙发椅
+   loosen               vi.变松
+   equation             n.平衡；平均；反应式
+   massive              a.粗大的；大而重的
+   abundance            n.丰富，充裕
+   coincide             vi.相符合；相巧合
+   peer                 vi.凝视；隐约出现
+   granite              a.花岗岩，花岗石
+   promptly             ad.敏捷地，迅速地
+   ingenious            a.机灵的；精巧制成的
+   absurd               a.不合理的，荒唐的
+   simultaneous         a.同时的，同时存在的
+   urge                 vt.&vi.强烈希望
+   thermal              a.热的；温泉的
+   romance              n.传奇；浪漫文学
+   hoarse               a.(声音)嘶哑的
+   kilowatt             n.千瓦(特)
+   dealer               n.商人，贩子；发牌者
+   goddess              n.女神；绝世美女
+   abide                vt.遵守 vt.忍受
+   overwhelm            vt.压倒，使不知所措
+   rally                n.&vt.&vi.(重新)集合
+   wrath                n.暴怒，狂怒，愤慨
+   bachelor             n.未婚男子；学士
+   inlet                n.进口，水湾 vt.引进
+   utilization          n.利用，效用
+   menace               vt.&vi.&n.(进行)威胁
+   junction             n.连接；接头；中继线
+   press                n.印刷机，印刷所
+   induction            n.就职；归纳推理
+   cautious             a.小心的，谨慎的
+   shoulder             vt.承担，挑起，肩负
+   inferior             n.下级；晚辈，次品
+   comparable           a.可比较的；类似的
+   lubricate            vt.使润滑vi.加润滑油
+   experimentally       ad.实验上，实验性地
+   bushel               n.蒲式耳(容量单位)
+   frock                n.(女)上衣，罩衫
+   infinity             n.大量，大宗；无穷大
+   algebra              n.代数学
+   inevitably           ad.不可避免地
+   dine                 vi.吃饭 vt.宴请
+   skyscraper           n.摩天楼
+   incense              n.香，熏香；香气
+   viscous              a.粘滞的，粘性的
+   remainder            n.剩余(物)；余数
+   second               vt.支持
+   oval                 a.卵形的 n.卵形
+   inherent             a.固有的，生来的
+   nourish              vt.提供养分，养育
+   aerospace            n.航空和宇宙航行空间
+   invoice              n.发票，发货清单
+   requisite            a.需要的 n.必需品
+   counsel              n.商议；忠告；律师
+   whisper              vt.低声地讲，私下说
+   wrinkle              n.皱纹 vt.使起皱纹
+   challenge            n.艰巨任务；要求回避
+   crab                 n.蟹，蟹肉 vi.捕蟹
+   literal              a.文字(上)的；字面的
+   formulate            vt.用公式表示
+   roller               n.滚柱，滚筒，辊
+   wedge                n.楔 vt.楔入；挤入
+   herald               ad.传令官；通报者
+   executive            n.总经理，董事
+   breakfast            vi.吃早餐
+   fabricate            vt.制作，组合；捏造
+   nought               n.无，零
+   bronze               n.青铜色
+   towards              prep.为了，有助于
+   formidable           a.可怕的；难对付的
+   slide                n.滑板，滑座
+   ascertain            vt.查明，确定，弄清
+   howl                 n.嚎叫；哀号 vi.吠
+   follower             n.契据的附面；从动件
+   indoor               a.室内的；室内进行的
+   slaughter            vt.&n.屠杀，屠宰
+   Mars                 n.火星；战争
+   empirical            a.经验主义的
+   rectify              vt.纠正；调整；精馏
+   stationery           n.文具；信笺
+   reel                 vt.卷，绕
+   range                vt.排列；把…分类
+   impart               vt.给予，传递；告诉
+   adore                vt.崇拜；很喜欢
+   bridegroom           n.新郎
+   suspicious           a.可疑的；猜疑的
+   frustrate            vt.挫败；使无效
+   prolong              vt.延长，拉长，拖延
+   zinc                 n.锌 vt.在…上镀锌
+   tutor                vt.教，指导
+   steak                n.大块牛肉；牛排
+   pierce               vt.穿透，戳穿，洞察
+   serpent              n.蛇(尤指大蛇或毒蛇)
+   clatter              n.得得声，卡嗒声
+   mild                 a.(烟、酒)味淡的
+   undesirable          a.不合需要的；讨厌的
+   intervene            vi.干涉，干预；播进
+   horn                 n.角状物，角制品
+   notion               n.概念，意念；看法
+   ruby                 n.红宝石
+   subsequent           a.尔后的
+   constituent          a.形成的 n.选民
+   mortgage             n.抵押 vt.抵押
+   jam                  n.堵塞 vt.使…堵塞
+   reference            n.参考文献；参照系
+   diverge              vi.分岔；分歧

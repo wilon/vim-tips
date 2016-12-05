@@ -1,0 +1,224 @@
+   emission             n.散发；传播；发出物
+   obscure              a.阴暗的；蒙昧的
+   pant                 vi.气喘
+   ample                a.足够的；宽敞的
+   jingle               vt.&vi.(使)丁当响
+   compliment           n.问候 vt.赞美，祝贺
+   skip                 vi.跳；跳绳；略过
+   drainage             n.排水；下水道
+   bewilder             vt.迷惑，把…弄糊涂
+   track                vi.留下足迹
+   dean                 n.(大学)院长，系主任
+   tribute              n.贡物；献礼，贡献
+   raise                vt.提出，发起，发出
+   witty                a.机智的；风趣的
+   velvet               a.丝绒制的；柔软的
+   integrity            n.诚实，正直
+   optical              a.光的；光学的
+   competitive          a.竞争的，比赛的
+   watt                 n.瓦(特)
+   stiffness            n.硬度
+   forsake              vt.遗弃，抛弃，摒绝
+   enlighten            vt.启发，开导；启蒙
+   graphite             n.石墨，石墨电极
+   propeller            n.螺旋桨，推进器
+   motorway             n.汽车道，快车路
+   trample              vt.&vi.&n.践踏，蹂躏
+   trivial              a.琐碎的；平常的
+   practicable          a.能实行的；适用的
+   filth                n.污秽，污物；淫猥
+   mirror               n.反映，借鉴
+   majesty              n.威严，尊严；陛下
+   porcelain            n.瓷 a.瓷的，瓷制的
+   gathering            n.集会，聚会，聚集
+   wade                 vt.趟(河)，跋涉
+   scorch               vi.烧焦，枯萎；挖苦
+   infer                vt.&vi.猜想，臆测
+   intonation           n.语调，声调；发声
+   token                n.象征；辅币；纪念品
+   ventilate            vt.使通风，使换气
+   spacious             a.广阔的，广大的
+   alas                 int.唉，哎呀
+   electronics          n.电子学
+   classic              n.名著 a.不朽的
+   Catholic             a.天主教的n.天主教徒
+   storm                n.爆发 vt.&vi.猛攻
+   establish            vt.使…被永久地接受
+   declaration          n.宣布，宣言；申诉
+   distinct             a.独特的
+   answer               vi.符合，适合
+   gamble               n.赌博 vt.冒…的险
+   proficient           a.熟练的，精通的
+   harsh                a.粗糙的；严厉的
+   pamphlet             n.小册子
+   persevere            vi.坚持，不屈不挠
+   assessment           n.估定；查定；估计数
+   divert               vt.使转向 vi.转移
+   squat                vi.&vt.(使)蹲下
+   transition           n.转变，变迁；过渡
+   patriot              n.爱国者，爱国主义者
+   tropical             a.热带的；炎热的
+   agreeable            a.惬意的；同意的
+   desolate             a.荒芜的；孤独的
+   verse                n.诗，韵文；诗行
+   marginal             a.记在页边的；边缘的
+   sensitivity          n.敏感(性)；灵敏性
+   destructive          a.破坏(性)的，危害的
+   shipbuilding         n.造船(业)，造船学
+   duke                 n.公爵，君主；手
+   colonial             a.殖民地的，殖民的
+   diagnose             vt.诊断(疾病)
+   unlimited            a.无限的；不定的
+   composition          n.组成，构成，结构
+   gossip               n.闲谈；碎嘴子；漫笔
+   herb                 n.草本植物；香草
+   pendulum             n.(钟等的)摆
+   conceit              n.自负，自高自大
+   dismiss              vt.忘掉
+   standardize          vt.使与标准比较
+   roam                 vt.在…漫步，漫游
+   thoughtless          a.欠考虑的；自私的
+   capability           n.能力，才能；性能
+   evolution            n.开方；(天体的)形成
+   compulsory           a.强迫的，义务的
+   rear                 vt.饲养，培植；抚养
+   banquet              n.宴会，盛会，酒席
+   lump                 vt.(使)成团 vi.结块
+   dominant             a.统治的 n.主因
+   barley               n.大麦
+   capacitance          n.电容，电容量
+   patent               a.专利的 n.专利
+   ornament             n.装饰物 vt.装修
+   presume              vt.假定，假设，揣测
+   disregard            vt.不管，不顾 n.不管
+   hull                 n.外壳，豆荚；薄膜
+   windmill             n.风车
+   verge                n.边缘，边界，界限
+   coke                 n.焦炭 vt.&vi.炼焦
+   waitress             n.女侍者，女服务员
+   oath                 n.誓言，誓约，宣誓
+   hug                  vt.搂 n.紧紧拥抱
+   peck                 vt.&vi.啄，啄起
+   gorgeous             a.绚丽的；极好的
+   grope                vi.(暗中)摸索，探索
+   stiff                a.生硬的
+   ambitious            a.有雄心的；热望的
+   deprive              vt.夺去；使(人)失去
+   elevate              vt.提高(思想)；抬高
+   bed                  n.河床，(湖)底，矿床
+   quest                vt.寻找 vi.追求
+   alteration           n.变更，改变；蚀变
+   summon               vt.召唤；鼓起(勇气)
+   slap                 vt.掴，拍 n.巴掌，拍
+   peel                 n.果皮，蔬菜皮
+   Roman                n.罗马人，古罗马人
+   documentary          a.纪录的，文献的
+   magician             n.魔法师；变戏法的人
+   virtual              a.实际上的，实质上的
+   inland               a.国内的；内地的
+   analytic(al)         a.分析的；分解的
+   instrumental         a.仪器的；有帮助的
+   clown                n.(马戏的)小丑，丑角
+   yearn                vi.想念，怀念，向往
+   fury                 n.狂怒，暴怒；猛烈
+   competitor           n.竞争者，敌手
+   solidify             vt.&vi.团结；凝固
+   elegant              a.(举止、服饰)雅致的
+   motel                n.汽车游客旅馆
+   deformation          n.损坏；变形；畸形
+   humanitarian         a.博爱的 n.慈善家
+   end                  n.目标，目的
+   appreciable          a.可估价的；可察觉的
+   grassy               a.草多的；草似的
+   rip                  vi.撕啐，扯破，划破
+   disturbance          n.动乱；干扰；侵犯
+   charm                n.魅力；妩媚 vi.迷人
+   propagate            vt.繁殖；传播，普及
+   radial               a.光线的；放射的
+   frail                a.脆弱的；意志薄弱的
+   attachment           n.连接物，附件；爱慕
+   microprocessor       n.微信息处理机
+   subtle               a.微妙的；精巧的
+   web                  n.网，丝，网状物
+   fringe               n.穗，毛边；边缘
+   insistent            a.坚持的；逼人注意的
+   summary              a.概括的；速决的
+   historic             a.历史的；历史性的
+   overthrow            vt.推翻 n.推翻，瓦解
+   question             vt.问，询问，讯问
+   homely               a.家庭的；家常的
+   rule                 n.裁决，裁定
+   completion           n.完成，结束，完满
+   woe                  n.悲哀，悲痛，苦恼
+   vital                a.生命的，生机的
+   cater                vi.迎合，投合
+   deficient            a.缺乏的；欠缺的
+   infinite             n.无限；无穷(大)
+   thicken              vt.使变厚(或粗、密)
+   tradesman            n.商人；手艺人
+   deem                 vt.认为，相信 vi.想
+   barge                n.驳船；大型游船
+   tulip                n.郁金香
+   intake               n.吸入；输入能量
+   flank                n.肋，肋腹；侧面
+   thrifty              a.节俭的；兴旺的
+   plead                vt.为…辩护 vi.抗辩
+   innumerable          a.无数的，数不清的
+   overlook             vt.眺望；看漏；宽容
+   magnify              vt.放大，扩大
+   coordinate           a.同等的 n.同等的人
+   harp                 n.竖琴；天琴座
+   descent              n.下降；出身；斜坡
+   speculate            vi.思索，沉思；投机
+   mountainous          a.多山的；山一般的
+   wasp                 n.黄蜂，蚂蜂
+   perplex              vt.迷惑，困惑，难住
+   analogy              n.相似，类似；比拟
+   administration       n.局(或署、处等)
+   lace                 vi.系带，用带子束紧
+   initially            ad.最初，开始
+   theft                n.盗窃，偷窃(行为)
+   grease               n.动物脂，脂肪
+   bald                 a.秃头的；无毛的
+   moor                 vt.使停泊；使固定
+   clinic               n.诊所，医务室；会诊
+   first-rate           a.第一流的，优秀的
+   trolley              n.手推车；无轨电车
+   enhance              vt.提高，增加；夸张
+   mobilize             vt.动员 vi.动员起来
+   peacock              n.孔雀
+   martyr               n.烈士，殉难者
+   mob                  vi.聚众闹事
+   reason               vt.辩论，讨论
+   prediction           n.预言，预告；预报
+   waggon               n.敞蓬车厢
+   blind                n.百叶窗；窗帘；遮帘
+   confidential         a.秘密的；亲信的
+   ferry                n.渡船；渡口 vt.运送
+   dignity              a.尊贵；(举止)庄严
+   fret                 vt.&vi.(使)烦恼
+   over                 prep.在(做)…时
+   relay                vt.分程传递；使接替
+   vicinity             n.邻近；附近地区
+   prophecy             n.预言，预言能力
+   pattern              vt.仿制，仿造，模仿
+   superiority          n.优越(性)，优势
+   contrary             n.反对命题
+   illuminate           vt.照明，照亮；阐明
+   essential            a.特发的；自发的
+   coin                 vt.铸造(硬币)
+   insight              n.洞察力，洞悉，见识
+   versus               prep.(比赛等中)对
+   exclamation          n.呼喊，惊叫；感叹
+   pedestrian           n.行人，步行者
+   squash               vt.压碎 n.鲜果汁
+   safeguard            n.保护措施；护照
+   retard               vt.延迟，放慢
+   board                vt.(收费)供…膳食
+   reef                 n.礁，礁石，暗礁
+   ambiguous            a.模棱两可的；分歧的
+   transaction          n.处理；交易；和解
+   suit                 vt.使配合vi.彼此协调
+   similarity           n.类似，相似；类似点
+   resume               n.(谋职者的)个人简历
+   offer                vt.呈现出 vi.出现

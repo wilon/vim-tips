@@ -1,0 +1,223 @@
+   decline              vt.下倾；偏斜；衰退
+   panther              n.豹，黑豹；美洲狮
+   bitterness           n.苦味，辛酸，苦难
+   lounge               n.(旅馆等的)休息室
+   symptom              n.症状，征候，征兆
+   experimentation      n.实验，试验；实验法
+   irregularity         n.不规则；不整齐
+   conviction           n.确信，信服，深信
+   caution              n.小心；告诫 vt.警告
+   maintenance          n.扶养；坚持
+   surplus              n.过剩，剩余(物资)
+   spill                n.(人)摔下，跌下
+   stubborn             a.顽固的；顽强的
+   enchant              vt.迷住；用魔法迷惑
+   errand               n.差使，差事
+   raisin               n.葡萄干
+   entry                n.通道；条目
+   prose                n.散文
+   widely               ad.大大地
+   stuffy               a.不透气的，闷热的
+   penalty              n.处罚，刑罚；罚款
+   fort                 n.要塞，堡垒
+   gorilla              n.大猩猩；暴徒，打手
+   yoke                 n.轭，牛轭；枷锁
+   systematically       ad.系统地，有规则地
+   limp                 vi.蹒跚，跛行 n.跛行
+   misfortune           n.不幸，灾祸，灾难
+   pasture              n.牧场；牲畜饲养
+   astronomy            n.天文学
+   extreme              n.极端不同的性质
+   ticket               n.(交通违章)罚款传票
+   cherish              vt.珍爱；怀有(感情)
+   occurrence           n.事故
+   royalty              n.皇家，王族，皇族
+   refugee              n.难民，流亡者
+   excessively          ad.过分，极端地
+   convert              vt.转变，改变，变换
+   certainty            n.确实性，确信，确实
+   bazaar               n.集市，廉价商店
+   pathetic             a.哀婉动人的；可怜的
+   prey                 vi.猎物 vi.捕获
+   catalogue            vt.为…编目录
+   tickle               vt.挠，胳肢；逗乐
+   guilt                n.有罪，犯罪；内疚
+   quiver               vi.(轻微地)颤动
+   assault              vt.袭击；殴打 n.攻击
+   deputy               n.代理人 a.副的
+   headquarters         n.总局，总店
+   unemployment         n.失业；失业人数
+   leakage              n.漏，泄漏；漏出物
+   chip                 n.薄片，碎片
+   influence            n.势力，权势
+   fling                vi.&vt.(用力)扔，抛
+   awake                vi.认识到
+   except               vt.把…除外，除去
+   alternate            vt.使交替 a.交替的
+   consequence          n.重要(性)，重大意义
+   yacht                n.游艇，快艇
+   thigh                n.股，大腿
+   hurrah               int.好哇，万岁，乌拉
+   inspector            n.检查员；巡官
+   coefficient          n.协同因素；系数，率
+   scoff                vt.&vi.嘲笑，嘲弄
+   onward(s)            a.向前(的)，在前面
+   uncertain            a.不定的；无常的
+   awkward              a.不雅观的
+   coffin               n.棺材，柩
+   visit                vt.常去
+   plain                a.坦白的；普通的
+   persecute            vt.迫害，残害
+   interior             n.内部 a.内部的
+   wither               vi.枯萎 vt.使衰弱
+   observe              vi.说，评述，评论
+   feel                 vi.摸起来
+   anode                n.阳极，正极，板极
+   option               n.选择，取舍
+   paragraph            n.小新闻，短评
+   eclipse              n.(日，月)食
+   prevalent            a.流行的；盛行的
+   luncheon             n.午宴，午餐，便宴
+   softness             n.温和，柔和；软弱
+   circular             n.传单，通报，通函
+   snap                 vt.猛咬，突然折断
+   halve                vt.对分；平摊
+   survival             n.幸存，残存；幸存者
+   degrade              vt.使降给；使堕落
+   infectious           a.传染的；感染性的
+   junior               n.年少者；晚辈
+   complexity           n.复杂(性)
+   suffice              vi.足够；有能力
+   ponder               vt.考虑 vi.沉思
+   distinctly           ad.显然，清楚地
+   jug                  n.带柄水罐，大壶
+   germ                 n.细菌，病原菌；幼芽
+   corrosion            n.腐蚀，侵蚀；锈
+   resignation          n.听从，屈从，顺从
+   jewellery            n.珠宝，珠宝饰物
+   equilibrium          n.平衡，均衡；均衡论
+   exile                vt.流放 n.被流放者
+   broaden              vt.&vi.放宽，变阔
+   terrify              vt.使恐怖，使惊吓
+   overhear             vt.偶然听到；偷听
+   ramble               vi.闲逛，漫步；聊天
+   rapture              n.狂喜，欢天喜地
+   hindrance            n.障碍，妨碍
+   commodity            n.日用品，商品，物品
+   cigar                n.雪茄烟，叶卷烟
+   smart                vi.刺疼，扎疼，剧痛
+   inaccessible         a.达不到的，难接近的
+   correspondence       n.通信；符合；对应
+   spectacle            n.场面；景象，奇观
+   consul               n.领事
+   hurt                 n.损伤，伤害，创伤
+   utensil              n.器皿，用具
+   horizon              n.层位
+   crisis               n.危机；转折点
+   butt                 n.大酒桶，桶
+   kidney               n.肾，腰子；性格
+   optimum              n.最适条件，最适度
+   scout                vt.搜索，侦察，跟踪
+   controversy          n.争论，辩论，争吵
+   patron               n.庇护人；赞助人
+   studio               n.工作室；播音室
+   inclusive            a.包围住的；包括的
+   elevation            n.高度；标高；隆肿
+   unlock               vt.开…的锁；开启
+   wink                 vi.眨眼；使眼色
+   modesty              n.谦逊；端庄；羞怯
+   beware               vt.&vi.谨防，当心
+   bamboo               n.竹；竹杆，竹棍
+   hamper               vt.妨碍，阻碍，牵制
+   correctly            ad.正确地，恰当地
+   ingenuity            n.机灵；设计新颖
+   sermon               n.布道，讲道，说教
+   shorten              vt.弄短，缩小，减少
+   deviation            n.背离，偏离；偏差数
+   reserve              n.缄默，自我克制
+   locality             n.位置，地点，发生地
+   thresh               vt.打谷，脱粒；推敲
+   fowl                 n.家禽；禽肉
+   overhang             vt.悬于…之上vi.悬垂
+   adjustable           a.可调整的，可校准的
+   finely               ad.精细地，美好地
+   vow                  n.誓言，誓约，许愿
+   monarch              n.君主，最高统治者
+   lighter              n.打火机，引燃器
+   jelly                n.冻，果子冻；胶状物
+   diversion            n.转移；改道；娱乐
+   incline              n.坡度
+   unique               a.无可匹敌的；极好的
+   whereby              ad.靠什么；靠那个
+   ferrous              a.铁的；亚铁的
+   burial               n.安葬，埋葬，埋藏
+   threshold            n.门槛；入门，开端
+   stairway             n.楼梯
+   cosmos               n.宇宙；秩序，和谐
+   innovation           n.创新，改革，新设施
+   nose                 n.突出部分(如船头等)
+   hearth               n.壁炉地面；炉边
+   mature               vt.使成熟 vi.成熟
+   decree               n.法令，政令；教令
+   fantastic            a.空想的；奇异的
+   disillusion          n.觉醒 vt.使觉醒
+   episode              n.一段情节；插曲
+   shatter              vt.粉碎，破碎；毁坏
+   routine              a.日常的 n.常规
+   ambient              a.周围的，包围着的
+   overload             vt.使超载
+   eastward             a.&ad.向东的，向东
+   trifle               vi.玩忽；闲混；嬉耍
+   annually             ad.年年，每年
+   bore                 n.讨厌的人；麻烦事
+   bestow               vt.把…赠与
+   luxurious            a.爱好奢侈的，豪华的
+   veil                 vt.以面纱遮掩vi.遮盖
+   ignite               vt.引燃 vi.着火
+   chord                n.(乐器的)弦 vi.协调
+   mammal               n.哺乳动物
+   mock                 n.嘲弄 vt.嘲弄，挖苦
+   cock                 n.旋塞，开关，龙头
+   strife               n.冲突，竞争
+   denote               vt.指示，意味着
+   untie                vt.解开，松开；解放
+   poultry              n.家禽
+   merchandise          n.商品，货物
+   ambassador           n.大使，使节
+   white                a.白种(人)的
+   rapidity             n.快，迅速；陡，险峻
+   instability          n.不稳定性；不坚决
+   Buddhism             n.佛教，释教
+   hook                 vt.用钩连接，用钩挂
+   scarlet              n.猩红色 a.猩红的
+   thereafter           ad.此后，以后
+   crack                vi.&vt.发出爆裂声
+   fall                 vi.变成，成为；陷于
+   sideways             ad.斜向一边地
+   pants                n.裤子；男用短衬裤
+   visa                 n.签证
+   rattle               vt.发出格格声
+   depression           n.消沉；不景气萧条期
+   divine               a.神的；敬神的
+   emigrate             vi.永久移居国外
+   gap                  n.山口，山峡；差距
+   intermediate         n.中间体；调解人
+   length               n.程度，范围
+   thrill               vt.&vi.(使)激动
+   reactor              n.反应器；反应堆
+   transverse           a.横切的 n.横轴
+   retirement           n.退休，引退；退隐
+   incapable            a.无能力的；无资格的
+   kernel               n.(果实的)核；谷粒
+   barely               ad.仅仅，勉强
+   litter               n.废物，杂乱 vi.乱扔
+   mitten               n.连指手套；露指手套
+   Christ               n.救世主(耶稣基督)
+   slave                vi.作苦工 vt.奴役
+   impurity             n.不纯；杂质；不道德
+   nice                 a.细微的，微妙的
+   handicap             vt.妨碍，使不利
+   pacific              a.性情温和的
+   hover                vi.徘徊；傍徨；翱翔
+   displacement         n.移置；免职；置换
+   lessen               vt.减少 vi.变少

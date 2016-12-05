@@ -1,0 +1,189 @@
+   pumpkin              n.南瓜，南瓜藤
+   prescription         n.药方，处方的药
+   cable                n.海底电报
+   shark                n.鲨鱼；贪婪狡猾的人
+   regenerative         a.新生的；回授的
+   radius               n.半径距离；界限
+   drain                vi.(水等)流掉
+   magnet               n.有吸引力的人(或物)
+   harbour              vt.隐匿，窝藏；怀着
+   cheat                n.欺诈；骗取
+   groove               n.槽 vt.开槽于
+   snack                n.快餐，小吃
+   priority             n.先，前；优先，重点
+   dentist              n.牙科医生
+   idleness             n.懒惰；赋闲无事
+   split                n.分裂，分化；派系
+   comprehend           vt.了解，理解，领会
+   systematic           a.成体系的；分类的
+   toss                 vi.翻来复去
+   provoke              vt.对…挑衅；激发
+   therein              ad.在那里，在那时
+   nut                  n.螺帽，螺母
+   version              n.解释
+   wisdom               n.(古人的)名言，格言
+   govern               vt.决定，支配；控制
+   complement           vt.补充 n.补足(物)
+   detach               vt.分开；派遣(军队)
+   cancel               vt.删去，勾销，取消
+   video                a.录象的
+   customary            a.通常的；照惯例的
+   perimeter            n.周(边)，周长
+   terminate            vt.&vi.停止，终止
+   spatial              a.空间的，占据空间的
+   reproduce            vt.仿造
+   sensation            n.感觉，知觉；轰动
+   excel                vt.胜过 vi.杰出
+   destine              vt.命定，注定；预定
+   soy                  n.酱油；大豆，黄豆
+   radiant              a.绚丽的；容光焕发的
+   scratch              n.起跑线，起步线
+   antenna              n.触角；天线
+   cruise               vi.巡航 vt.巡航于…
+   attendant            n.侍者；护理人员
+   filter               vi.滤过
+   tower                vi.高耸，屹立；翱翔
+   absent               a.不在意的
+   pipe                 n.管乐器
+   province             n.领域，范围，职权
+   saturation           n.饱和(状态)；浸透
+   fission              n.裂开；分裂生殖
+   panel                n.(选定的)专门小组
+   by-product           n.副产品
+   magnitude            n.大小；重大；星等
+   receiver             n.接待者；收受者
+   embarrass            vt.使负债；使复杂化
+   convey               vt.传达；传播；转让
+   sheriff              n.郡长；警察局长
+   platform             n.政纲，党纲，宣言
+   obedient             n.服从的，顺从的
+   tranquil             a.平静的；稳定的
+   detail               n.琐碎，小事
+   legislation          n.立法；法规
+   orchestra            n.管弦乐队的全部乐器
+   interpret            vt.解释 vi.口译
+   inject               vt.注射；注满；喷射
+   expire               vi.满期，到期；断气
+   hymn                 n.赞美诗，圣歌；赞歌
+   endanger             vt.危及，危害
+   blouse               n.女衬衫；童衫；罩衫
+   glossary             n.词汇表；术语汇编
+   incompatible         a.不相容的
+   vigorous             a.精力旺盛的，茁壮的
+   violent              a.狂暴的；歪曲的
+   substance            n.财产；内容，本旨
+   knight               n.骑士，武士；爵士
+   stern                n.艉，船尾；臀部
+   clasp                vt.扣住，扣紧，钩住
+   author               n.创造者，创始人
+   barren               a.贫瘠的；不妊的
+   deal                 vi.做买卖；对付
+   mistress             n.情妇，情人
+   physically           ad.物质上；体格上
+   toad                 n.蟾蜍，癞蛤蟆
+   apt                  a.恰当的；聪明的
+   flatten              vt.把…弄平；击倒
+   scheme               vt.计划 vi.搞阴谋
+   dedicate             vt.奉献；献身
+   rash                 a.轻率的；鲁莽的
+   bridle               n.笼子；束缚 vt.抑制
+   siren                n.汽笛，警报器
+   gnaw                 vt.啃，咬断 vi.啮
+   disorder             n.疾病，小病
+   fracture             n.破裂；裂痕 vi.破裂
+   stammer              vt.口吃地说 n.口吃
+   arctic               a.北极的 n.北极
+   siege                n.包围，围攻，围困
+   module               n.模数；模；组件
+   scan                 n.扫描，扫掠
+   foam                 n.泡沫；泡沫塑料
+   politics             n.政纲，政见，策略
+   heater               n.加热的人，加热器
+   oxide                n.氧化物
+   acquaint             vt.使认识，使了解
+   dominate             vt.统治，支配，控制
+   lofty                a.高耸的；高尚的
+   vigour               n.活力，精力；元气
+   hose                 n.长筒袜；软管
+   milky                a.牛奶的；乳白色的
+   torque               n.转(力)矩，扭(力)矩
+   outline              vt.概述，概括
+   romantic             a.好幻想的
+   concession           n.让步，迁就
+   personality          n.人格，个性；人物
+   excursion            n.离题
+   underestimate        vt.低估，看轻
+   quantify             vt.确定…的数量
+   nest                 vi.筑巢 vt.为…筑巢
+   eject                vt.逐出，排斥；喷射
+   baseball             n.棒球；棒球运动
+   latent               a.存在但看不见的
+   subdivide            vt.把…再分
+   decay                vt.使腐朽，使腐烂
+   epoch                n.(新)时代；历元
+   nominate             vt.提名，推荐；任命
+   network              n.网络；广播网
+   muscular             a.肌肉发达的，强健的
+   simple               a.单纯的；迟钝的
+   selection            n.精选的东西；选择
+   unpaid               a.未付的；不支薪水的
+   subscript            a.写在下方的 n.下标
+   youngster            n.儿童，少年，年轻人
+   destiny              n.命运，天数
+   woodpecker           n.啄木鸟
+   sincerity            n.真诚，诚意；真实
+   Moslem               n.&a.穆斯林(的)
+   repeal               vt.撤销；放弃 n.撤销
+   cling                vi.粘住；依附；坚持
+   malice               n.恶意；蓄意犯罪
+   scar                 n.瘢痕
+   induce               vt.劝诱；引起；感应
+   improper             a.不适当的；不合理的
+   gather               vt.推测，推断
+   kindle               vt.点燃 vi.着火
+   Islam                n.伊斯兰教，回教
+   irrespective         a.不考虑的，不顾的
+   discount             n.折扣；打折扣卖
+   photography          n.摄影术
+   vein                 n.静脉，血管，矿脉
+   ascend               vi.攀登，登高；追溯
+   punch                vt.冲压 n.冲压机
+   energize             vt.给与…能量；电压
+   inadequate           a.不充足的，不适当的
+   gravel               n.砂跞；砂砾层；结石
+   stereo               n.立体声 a.立体声的
+   narration            n.叙述；故事；叙述法
+   fence                n.击剑(术) vi.击剑
+   uphold               vt.举起；支撑；赞成
+   lunar                a.月亮的
+   fuss                 n.忙乱；吹捧 vi.忙乱
+   dissipate            vt.驱散；浪费vi.消散
+   insert               vi.(肌肉)附着
+   baffle               vt.使挫折 n.迷惑
+   limb                 n.分支，突出物
+   composite            a.合成的 n.合成物
+   shuttle              n.(织机的)梭
+   availability         n.有效(性)；可得性
+   suitcase             n.小提箱，衣箱
+   multiplication       n.增加；繁殖；乘法
+   composer             n.作曲家；调停人
+   maid                 n.少女；处女
+   theme                n.题目；词干；主旋律
+   tack                 n.平头打 vt.钉住
+   workpiece            n.工(作)件
+   finance              vt.提供资金
+   seaport              n.海港，港口，港市
+   hearty               a.衷心的；丰盛的
+   dissatisfaction      n.不满，不平
+   tile                 n.瓦片，瓷砖；贴砖
+   sniff                vi.用鼻子吸 vt.嗅
+   miser                n.守财奴，吝啬鬼
+   hip                  n.臀部，髋；屋脊
+   riot                 n.&vi.骚乱，暴乱
+   splash               vt.溅泼 vi.泼水 n.溅
+   burglar              n.夜盗，窃贼
+   frequent             a.常见的；频繁的
+   budget               n.预算，预算案
+   velocity             n.迅速，快速
+   yolk                 n.蛋黄，卵黄
+   breed                n.(动物)品种

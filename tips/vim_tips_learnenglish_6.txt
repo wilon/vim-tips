@@ -1,0 +1,201 @@
+   printer              n.印刷工；印花工
+   linear               a.线的；长度的
+   concern              n.所关切的事；商行
+   discourse            n.讲话，演说，讲道
+   invalid              n.病人 a.有病的
+   workshop             n.专题讨论会
+   warrant              n.许可证，委任状
+   consumption          n.消费(量)，灭绝
+   dazzle               vt.&vi.炫耀；迷惑
+   snobbish             a.势利的，谄上欺下的
+   vision               n.视力；眼光，想象力
+   overall              a.综合的 n.工作服
+   hide                 n.生皮，兽皮，皮革
+   mechanism            n.机械装置；机制
+   gradient             n.斜坡 a.倾斜的
+   superb               a.壮丽的；超等的
+   boiler               n.锅炉；热水贮槽
+   replace              vt.送还，归还，赔还
+   watertight           a.不漏水的，防水的
+   vaccinate            vt.给…种牛痘
+   curly                a.卷曲的；有卷毛的
+   axial                a.轴的；轴向的
+   synthesis            n.合成；综合，综合物
+   qualification        n.资格；限制条件
+   outside              prep.在…外，向…外
+   diesel               n.柴油发动机，内燃机
+   diminish             vt.减少，减小，递减
+   slit                 vt.切开 n.狭长的切口
+   immortal             a.不朽的；永生的
+   prophet              n.预言家，先知
+   productivity         n.生产率；多产
+   wrestle              n.摔交；斗争，搏斗
+   ally                 n.盟国，同盟者，伙伴
+   vocabulary           n.词汇表，词汇汇编
+   neighbouring         a.邻近的，接壤的
+   warfare              n.战争，战争状态
+   snore                vi.打鼾，打呼噜
+   interconnect         vt.使互相联系
+   migrate              vi.迁移，移居
+   lattice              n.格子；点阵，网络
+   historian            n.历史学家；编史家
+   chop                 n.一块排骨，肉块
+   bacon                n.咸猪肉，熏猪肉
+   handout              n.施舍物，救济品
+   sullen               a.绷着脸不高兴的
+   fixture              n.固定；定期存款
+   worship              vt.崇拜 vi.做礼拜
+   stillness            n.寂静，无声
+   poke                 vt.戳，刺；伸(头等)
+   underline            vt.着重；预告
+   late                 a.去世不久的
+   irritate             vt.激怒；引起不愉快
+   shell                n.炮弹，猎枪子弹
+   troop                n.一群，一队，大量
+   alongside            prep.在…旁边
+   shutter              n.百叶窗；(相机)快门
+   ignorance            n.无知，无学，愚昧
+   ascribe              vt.把…归于
+   cereal               n.谷类，五谷，禾谷
+   hazard               vt.使遭危险 n.危险
+   battle               vi.战斗 vt.与…作战
+   nightmare            n.恶梦；经常的恐惧
+   provision            n.规定，条款，条项
+   fabrication          n.制作，构成；捏造
+   intercourse          n.交际，往来，交流
+   monopoly             n.垄断，独占，专利
+   fell                 vt.砍倒(树等)；砍伐
+   counter              a.&ad.相反的(地)
+   propaganda           n.宣传；宣传机构
+   pier                 n.(桥)墩；码头
+   mast                 n.桅杆；杆 vt.扯帆
+   buzz                 vi.(蜂等)嗡嗡叫
+   sophisticated        a.老于世故的；高级的
+   participant          n.参加者 a.有份的
+   repel                vt.拒绝；使厌恶
+   gear                 n.齿轮，传动装置
+   manipulate           vt.操作；控制，手持
+   largely              ad.大规模地
+   reproduction         n.再生(产)；繁殖
+   clash                n.碰撞声；抵触，冲突
+   what                 a.所…的，尽可能多的
+   resolute             a.坚决的，果敢的
+   nourishment          n.食物；营养(情况)
+   void                 a.空的；无效的
+   equator              n.赤道，天球赤道
+   house                n.议院，会议厅
+   severe               a.激烈的；简朴的
+   industrious          a.勤劳的，勤奋的
+   propagation          n.繁殖；传播；蔓延
+   constraint           n.强迫，结束；强制力
+   wholesome            a.适合卫生的
+   senator              n.参议员；评议员
+   announce             vt.报告…的来到
+   forum                n.论坛，讨论会
+   abbreviation         n.节略，缩写，缩短
+   fastener             n.扣件，钮扣，揿钮
+   software             n.(计算机的)软件
+   implore              vt.乞求，恳求，哀求
+   rebuke               vt.指责，非难，斥责
+   specialize           vt.使专门化，专业化
+   extract              vt.取出；榨取 n.摘录
+   glue                 vt.粘牢
+   discrimination       n.辨别；识别力；歧视
+   steal                vt.偷偷地做，巧取
+   devotion             n.献身，热诚，专心
+   soften               vt.使软化 vi.变软弱
+   wring                vt.拧，挤，扭，榨
+   conqueror            n.征服者，胜利者
+   luminous             a.发光的；光明的
+   volunteer            n.志愿者 vt.志愿
+   regulation           n.规章，规则；调节
+   shame                vt.使羞愧，玷辱
+   measurement          n.(量得的)尺寸，大小
+   henceforth           ad.今后，从今以后
+   sodium               n.钠
+   dictator             n.独裁者，专政者
+   adhere               vi.粘附；追随；坚持
+   expect               vt.料想，认为
+   proposition          n.命题，主题；提议
+   grateful             a.可喜的，令人愉快的
+   continental          a.大陆的，大陆性的
+   timely               a.及时的；适时的
+   patriotic            a.爱国的
+   flake                n.片，薄片；肌膈
+   difficult            a.难以满足的
+   breakdown            n.崩溃，倒塌；失败
+   ice                  vt.使成冰 vi.结冰
+   position             n.主张，立场；形势
+   embassy              n.大使馆；大使的职务
+   custom               n.海关，关税
+   foresee              vt.预见，预知，看穿
+   popularity           n.通俗性；普及，流行
+   ecology              n.生态学；个体生态学
+   baron                n.男爵；贵族；巨商
+   negotiate            vi.谈判，交涉，议定
+   undertaking          n.任务，事业；承担
+   evenly               ad.一致地，平静地
+   astonishment         n.惊奇，惊讶
+   hum                  n.嗡嗡声 vt.哼曲子
+   displace             vt.移置；取代；置换
+   lathe                n.车床 vt.用车床加工
+   wasteful             a.浪费的；破坏性的
+   torment              n.痛苦 vt.折磨
+   intellect            n.理智，智力，才智
+   inversely            ad.相反地
+   melancholy           n.&a.忧郁(的)，悲伤
+   seemingly            ad.表面上，外表上
+   flight               n.溃退，逃跑；外流
+   decorative           a.装饰的；可作装饰的
+   summit               n.顶点，最高点；极度
+   thereof              ad.它的，其；由此
+   mystery              n.神秘小说，侦探小说
+   global               a.球面的；全球的
+   cruelty              n.残酷；残酷行为
+   shabby               a.褴褛的；破旧的
+   plague               n.瘟疫，鼠疫；天灾
+   observation          n.意见，短评，按语
+   waver                vi.摇摆；犹豫不决
+   absorption           n.吸收；专注
+   flavour              vt.给…调味
+   refinery             n.精炼厂，提炼厂
+   framework            n.机构，组织，体制
+   torpedo              n.鱼雷，水雷
+   deflection           n.偏斜，歪斜；偏差
+   versatile            a.多方面的；通用的
+   precede              vt.先于… vi.领先
+   willow               n.柳树，柳木
+   blunder              vi.犯大错 n.大错
+   finite               a.有限的；有尽的
+   monk                 n.和尚，僧侣，修道士
+   reed                 n.芦笛，牧笛
+   brand                vt.在…上打烙印
+   endurance            n.耐久力，持久力
+   pickle               n.腌制食品，泡菜
+   crash                vi.撞坏，摔坏，砸碎
+   doom                 n.命运，毁灭 vt.注定
+   interact             vi.相互作用
+   fro                  ad.往，去，回，向后
+   commonplace          a.平凡的 n.平常话
+   indignation          n.愤怒，愤慨，义愤
+   number               vt.共计，达…之数
+   cartridge            n.弹药筒，子弹；软片
+   start                vt.开动，着手；开设
+   warning              n.警告，告诫，鉴诫
+   hike                 vi.作长途徒步旅行
+   hard                 a.(酒)烈性的
+   sculpture            n.雕刻(术)；雕刻品
+   grasshopper          n.蚱蜢，蝗虫，蚂蚱
+   jog                  vt.使(马等)缓步行进
+   nickname             n.绰号，浑号
+   emerge               vi.浮现，出现；显露
+   prestige             n.威望，威信，声望
+   prick                vt.刺(穿) n.刺孔
+   garlic               n.蒜，大蒜
+   presentation         n.介绍；赠送；呈现
+   parade               vt.夸耀(才能等)
+   indulge              vt.放纵(感情)vi.纵情
+   taper                n.细小的蜡烛；微光
+   Egyptian             a.埃及的 n.埃及人
+   eternal              n.永久的；不朽的
+   haughty              a.傲慢的，轻蔑的
