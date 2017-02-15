@@ -24,9 +24,9 @@ Random output vim tips.
 
 1. Supported tips
 
-    `let g:vim_tip_lang = 'zzapper'`    [Xzapper's] vim tips; *default*
+    `let g:vim_tip_lang = 'zzapper'`    [Xzapper]'s vim tips; *default*
 
-    `let g:vim_tip_lang = 'edyfox'`    [滇狐's] vim tips;
+    `let g:vim_tip_lang = 'edyfox'`    [滇狐]'s vim tips;
 
     `let g:vim_tip_lang = 'learnenglish'`    English-cn dict vim tips;
 
@@ -38,4 +38,4 @@ Random output vim tips.
 [Vundle]:http://github.com/gmarik/Vundle.vim
 [My]:https://github.com/wilon/
 [Xzapper]:https://github.com/gmarik/Vundle.vim/wiki/Vundle-for-Windows
-[edyfox]:http://edyfox.codecarver.org/html/index.html
+[滇狐]:http://edyfox.codecarver.org/html/index.html
