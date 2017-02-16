@@ -15,6 +15,8 @@ function! vimtips#echo()
         let g:tips = g:tipList[rand]
     endif
     if v:version > 703 && winwidth(0) > strdisplaywidth(g:tips)
-        echo g:tips
+        if !exists("g:ctrlp_lines") || g:ctrlp_lines ==[]
+            echo g:tips
+        endif
     endif
 endfunction
