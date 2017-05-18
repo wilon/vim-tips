@@ -37,5 +37,5 @@ Random output vim tips.
 
 [Vundle]:http://github.com/gmarik/Vundle.vim
 [My]:https://github.com/wilon/
-[Xzapper]:https://github.com/gmarik/Vundle.vim/wiki/Vundle-for-Windows
+[Xzapper]:http://zzapper.co.uk/vimtips.html
 [滇狐]:http://edyfox.codecarver.org/html/index.html
