@@ -26,6 +26,8 @@ Random output vim tips.
 
     `let g:vim_tip_lang = 'zzapper'`    [Xzapper]'s vim tips; *default*
 
+    `let g:vim_tip_lang = 'skywind3000'`    [skywind3000]'s vim tips;
+
     `let g:vim_tip_lang = 'edyfox'`    [滇狐]'s vim tips;
 
     `let g:vim_tip_lang = 'learnenglish'`    English-cn dict vim tips;
@@ -35,7 +37,8 @@ Random output vim tips.
     `let g:vim_tip_file = '/home/lilei/pp.txt'`    Remote is not supported
 
 
-[Vundle]:http://github.com/gmarik/Vundle.vim
-[My]:https://github.com/wilon/
-[Xzapper]:http://zzapper.co.uk/vimtips.html
-[滇狐]:http://edyfox.codecarver.org/html/index.html
+[Vundle]: http://github.com/gmarik/Vundle.vim
+[My]: https://github.com/wilon/
+[Xzapper]: http://zzapper.co.uk/vimtips.html
+[滇狐]: http://edyfox.codecarver.org/html/index.html
+[skywind3000]: https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt
